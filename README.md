@@ -37,7 +37,7 @@ Users should be able to:
 
 - Solution URL: [Solution](https://poseidon0211-hub.github.io/3-column-preview-card-component-main/)
 - Live Site URL: [Live site ](cool-lebkuchen-b5d056.netlify.app)
--  Live Site URL: [Live site ](<a href="cool-lebkuchen-b5d056.netlify.app" target="_blank" rel="noreferrer"> Click here</a>)
+-  Live Site URL:(<a href="cool-lebkuchen-b5d056.netlify.app" target="_blank" rel="noreferrer"> Click here</a>)
 
 ## My process
 

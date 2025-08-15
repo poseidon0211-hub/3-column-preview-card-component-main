@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- <a href="https://poseidon0211-hub.github.io/3-column-preview-card-component-main/" target="_blank" rel="noreferrer"> Solution </a>
--  <a href="https://cool-lebkuchen-b5d056.netlify.app/" target="_blank" rel="noreferrer">Live Site </a>
+- Solution URL: <a href="https://poseidon0211-hub.github.io/3-column-preview-card-component-main/" target="_blank" rel="noreferrer"> Solution </a>
+- Live Site URL: <a href="https://cool-lebkuchen-b5d056.netlify.app/" target="_blank" rel="noreferrer">Live Site </a>
 
 
 ## My process
@@ -58,7 +58,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@poseidon0211-hub](https://www.frontendmentor.io/profile/poseidon0211-hub)
 - Frontend Mentor - <a href="https://www.frontendmentor.io/profile/poseidon0211-hub" target="_blank" rel="noreferrer">@poseidon0211-hub</a>
 
 

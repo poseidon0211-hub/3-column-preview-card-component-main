@@ -1,0 +1,95 @@
+body {
+  font-family: 'Lexend Deca', sans-serif;
+  background-color: hsl(0, 0%, 95%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.three-column-component {
+  display: flex;
+  max-width: 920px;
+  border-radius: 8px;
+  overflow: hidden;
+  
+}
+
+.card {
+  padding: 3rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-sedans {
+  background-color: hsl(31, 77%, 52%);
+}
+
+.card-suvs {
+  background-color: hsl(184, 100%, 22%);
+}
+
+.card-luxury {
+  background-color: hsl(179, 100%, 13%);
+}
+
+.card img {
+  width: 64px;
+  margin-bottom: 2rem;
+}
+
+.card h2 {
+  font-family: 'Big Shoulders Display', cursive;
+  color: hsl(0, 0%, 95%);
+  text-transform: uppercase;
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+.card p {
+  color: hsla(0, 0%, 100%, 0.75);
+  line-height: 1.6;
+  font-size: 0.9rem;
+  flex-grow: 1;
+}
+
+.learn-more-button {
+  background-color: hsl(0, 0%, 95%);
+  color: inherit;
+  border-radius: 25px;
+  padding: 0.8rem 2rem;
+  text-decoration: none;
+  font-weight: 700;
+  border: 2px solid hsl(0, 0%, 95%);
+  transition: all 0.3s ease;
+}
+
+.card-sedans .learn-more-button {
+  color: hsl(31, 77%, 52%);
+}
+
+.card-suvs .learn-more-button {
+  color: hsl(184, 100%, 22%);
+}
+
+.card-luxury .learn-more-button {
+  color: hsl(179, 100%, 13%);
+}
+
+.learn-more-button:hover {
+  background-color: transparent;
+  color: hsl(0, 0%, 95%);
+}
+
+@media (max-width: 768px) {
+  .three-column-component {
+    flex-direction: column;
+    margin: 2rem;
+  }
+.learn-more-button {
+  padding: 0.4rem 1rem;
+  margin-right: 5rem;
+}
+}

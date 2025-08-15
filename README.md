@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://poseidon0211-hub.github.io/3-column-preview-card-component-main/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://poseidon0211-hub.github.io/3-column-preview-card-component-main/)
+- Live Site URL: [Live site ](cool-lebkuchen-b5d056.netlify.app)
 
 ## My process
 

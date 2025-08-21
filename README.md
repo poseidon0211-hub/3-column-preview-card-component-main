@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: <a href="https://poseidon0211-hub.github.io/3-column-preview-card-component-main/" target="_blank" rel="noreferrer"> Solution </a>
+- Solution URL: <a href="https://www.frontendmentor.io/solutions/3-column-preview-card-component-wpvQO7LIHT" target="_blank" rel="noreferrer"> Solution </a>
 - Live Site URL: <a href="https://3-column-preview-component-card.netlify.app/" target="_blank" rel="noreferrer">Live Site </a>
 
 
